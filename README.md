@@ -1,2 +1,2 @@
 ﻿# krish-coder-24
-![Snake animation](https://github.com/krishdev/krishdev/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/krish-coder-24/krish-coder-24/blob/output/github-contribution-grid-snake.svg)
